@@ -1,0 +1,31 @@
+{
+  "user": [
+    {
+      "name": "Jiwei Ma",
+      "age": 18,
+      "income": 0,
+      "id": 1
+    },
+    {
+      "id": 3
+    },
+    {
+      "name": "Jiwei Ma",
+      "age": 18,
+      "income": 0,
+      "id": 4
+    },
+    {
+      "name": "Jiwei Ma",
+      "age": 18,
+      "income": 0,
+      "id": 7
+    },
+    {
+      "name": "Jiwei Ma",
+      "age": 18,
+      "income": 0,
+      "id": 8
+    }
+  ]
+}
